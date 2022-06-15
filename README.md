@@ -10,5 +10,5 @@
 <a href="https://jeansilvatech.github.io/calculadora-javascript/" target="_blank"><img src="https://img.shields.io/badge/Safari-FFFFFF?style=for-the-badge&logo=Safari&logoColor=black"/></a>
 <a href="https://jeansilvatech.github.io/calculadora-javascript/" target="_blank"><img src="https://img.shields.io/badge/Brave-000000?style=for-the-badge&logo=Brave&logoColor=white"/></a>
 
-## Preview
+## Print do projeto
 ![image](https://user-images.githubusercontent.com/23384348/173868261-054b9dc6-d3b6-4aeb-8a02-f0110e5cd01b.png)
